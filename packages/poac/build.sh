@@ -3,6 +3,7 @@ TERMUX_PKG_DESCRIPTION="A package manager and build system for C++"
 TERMUX_PKG_LICENSE="Apache-2.0"
 TERMUX_PKG_MAINTAINER="@termux"
 TERMUX_PKG_VERSION="0.10.1"
+TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL="https://github.com/poac-dev/poac/archive/refs/tags/${TERMUX_PKG_VERSION}.tar.gz"
 TERMUX_PKG_SHA256=4be4f9d80ee1b4b2dd489bc335d59b50d945ad2bff9458eba66b230247f5c8a6
 TERMUX_PKG_AUTO_UPDATE=true

@@ -3,6 +3,7 @@ TERMUX_PKG_DESCRIPTION="A hierarchical note taking application"
 TERMUX_PKG_LICENSE="GPL-3.0, LGPL-2.1"
 TERMUX_PKG_MAINTAINER="@termux"
 TERMUX_PKG_VERSION="1.1.4"
+TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://github.com/giuspen/cherrytree/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=4440dd39fdd637b82cf3abac82389fe30f4da81a79f5d61ffcdd64748b24465b
 TERMUX_PKG_AUTO_UPDATE=true
